@@ -28,7 +28,7 @@ mksquashfs 07firstrib_rootfs 07KLA-plasma-KDE-x.x.sfs -noappend -comp xz -b 512k
 ```
   - where x.x is your build number.
 
-9) Delete the `07firstrib_rootfs` folder.
+9) Delete the `07firstrib_rootfs` folder.After it is packed into " 07KLA-plasma-KDE-x.x.sfs "
 
 
 ```
