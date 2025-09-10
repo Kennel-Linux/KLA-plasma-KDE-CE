@@ -127,7 +127,7 @@ XRESOURCES
 ## install DESKTOP MANAGER
 # echo plasma-meta kde-applications-meta xorg kio-admin sddm \
 # echo plasma-meta xorg kio-admin sddm \
-echo plasma-desktop xorg kio-admin sddm sddm-kcm \
+echo plasma-desktop xorg kio-admin sddm sddm-kcm plasma-x11-session kwin-x11 \
 | xargs -n1 pacman -S --noconfirm --needed --disable-download-timeout
 
 ### START GENERAL CONFIGURATION-----------------------------------------
