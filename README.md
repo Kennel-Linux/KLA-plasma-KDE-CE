@@ -1,11 +1,13 @@
+<div align="center">
+
 # *KLA-plasma-KDE-CE*
 
-![Снимок экрана_20241102_173019](https://github.com/user-attachments/assets/6be91245-ee57-4aa2-a827-62bf3e5be7c3)
 
+<img width="1366" height="833" alt="laptop" src="https://github.com/user-attachments/assets/0e295e1d-fe88-4135-9df5-b09d8f002c6e" />
 
-![Снимок экрана_20241102_173416](https://github.com/user-attachments/assets/fa9b2c3f-7af8-4da0-9f67-4b533898cac4)
 
 <br><div align="center"><img width="12%" src="https://github.com/user-attachments/assets/c67f5b61-74d2-44fe-ba83-ae973402ac0a"/><br></div>
+
 
 <a id="installation"></a>  
 <img src="https://github.com/user-attachments/assets/7e1e2fa0-ab50-4901-a024-fe731fb44ab3" width="200"/>
