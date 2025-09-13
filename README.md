@@ -13,6 +13,8 @@
 <img src="https://github.com/user-attachments/assets/7e1e2fa0-ab50-4901-a024-fe731fb44ab3" width="200"/>
 ---
 
+<div align="left">
+
 1) Create a folder `KLA-plasma-KDE-CE` typing in the terminal `mkdir -p KLA-plasma-KDE-CE`
 
 2) Open a terminal in the created folder `KLA-plasma-KDE-CE` or go to the folder by typing in the terminal
