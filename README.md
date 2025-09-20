@@ -3,10 +3,8 @@
 # *KLA-plasma-KDE-CE*
 
 
-<img width="1366" height="833" alt="laptop" src="https://github.com/user-attachments/assets/0e295e1d-fe88-4135-9df5-b09d8f002c6e" />
+<img width="2000" height="1220" alt="laptop svg" src="https://github.com/user-attachments/assets/da120458-92a6-4e1d-8583-b03a528d4e7f" />
 
-
-<img width="750" height="422" alt="Снимок экрана_20250921_012928" src="https://github.com/user-attachments/assets/d0c324bd-0ead-496c-96d7-c576eb5cc7eb" />
 
 
 <br><div align="center"><img width="12%" src="https://github.com/user-attachments/assets/c67f5b61-74d2-44fe-ba83-ae973402ac0a"/><br></div>
