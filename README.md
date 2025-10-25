@@ -45,3 +45,5 @@ mksquashfs 07firstrib_rootfs 07KLA-plasma-KDE-x.x.sfs -noappend -comp xz -b 512k
 ```
  git clone https://github.com/sofijacom/KLA-plasma-KDE-CE.git
 ```
+
+---
